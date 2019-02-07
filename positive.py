@@ -1,7 +1,7 @@
-n=int(input())
-if n>0:
+jp[=int(input())
+if jp>0:
 	print("Positive");
-elif n<0:
+elif jp<0:
 	print("Negative");
 else:
 	print("Zero");
